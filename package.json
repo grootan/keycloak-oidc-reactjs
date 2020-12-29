@@ -35,5 +35,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "keycloak",
+    "oidc",
+    "oidc-reactjs",
+    "openid",
+    "openid connect",
+    "angular implicit flow"
+]
 }
