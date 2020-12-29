@@ -1,7 +1,7 @@
 {
   "name": "keyclock-oidc-reactjs",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "A reactjs application for implicit flow using openid connect",
   "repository": "https://github.com/grootan/keycloak-oidc-reactjs",
   "author": "achyuth.thumbalam@grootan.com",
